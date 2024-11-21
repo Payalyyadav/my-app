@@ -1,0 +1,15 @@
+.ff{
+    font-family: "Avenir Next Rounded", sans-serif;
+}
+
+/* .cardmain{
+    display: flex;
+}
+.cardimg img{
+    width: 300px;
+    height: 300px;
+} */
+
+.grrr:hover{
+    background-color: gray;
+}

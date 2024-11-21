@@ -1,0 +1,38 @@
+.none { 
+    width: 100%;
+    height: 200px;
+    background-color: red;
+    display: none;
+    position: absolute;
+}
+
+.hovertotext {
+    top: 0;
+    position: relative;
+}
+
+.hovertotext:hover .none {
+    display: block;
+    /* left: -50rem; */
+}
+
+
+  
+  
+
+  /* .faaa{
+    font-family: "Times New Roman", Times, serif;
+  } */
+
+  .ggg:hover{
+    color: gray;
+   
+  }
+
+
+  
+
+
+
+
+  
